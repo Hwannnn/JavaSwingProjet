@@ -1,4 +1,6 @@
-# JavaSwingProjet 2016/first semester
+# JavaSwingProjet
+
+2016 / first semester / Java class project
 
 English
 Java Swing Project1.
